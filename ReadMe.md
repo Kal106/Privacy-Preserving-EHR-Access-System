@@ -1,4 +1,4 @@
-# Secure Health Share - Installation & Run Guide
+#Installation & Run Guide
 
 This guide provides all the steps necessary to set up and run the complete Secure Health Share project on a new machine. The system consists of 7–8 components that must all run at the same time.
 
